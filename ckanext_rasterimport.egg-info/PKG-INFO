@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ckanext-rasterimport
+Version: 0.1
+Summary: Allows importing raster data into ckan through a wcst service
+Home-page: http://rasdaman.com
+Author: Alex Dumitru
+Author-email: dumitru@rasdaman.com
+License: MIT
+Description: 	
+Platform: UNKNOWN
